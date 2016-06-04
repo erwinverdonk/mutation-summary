@@ -1748,3 +1748,14 @@ class MutationSummary {
   }
 }
 
+export {
+  NodeMap
+  NodeChange
+  ChildListChange
+  TreeChanges
+  MutationProjection
+  Summary
+  Qualifier
+  Selector
+  MutationSummary
+}
